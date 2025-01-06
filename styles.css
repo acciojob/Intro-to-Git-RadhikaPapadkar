@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+/* You can add basic styling to the paragraph */
+p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+}
